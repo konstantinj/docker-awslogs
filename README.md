@@ -1,4 +1,4 @@
-# awslogs Docker iamge
+# AWSLogs Docker image
 
 [![](https://badge.imagelayers.io/konjak/awslogs:latest.svg)](https://imagelayers.io/?images=konjak/awslogs:latest)
 
